@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   window_construction.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: souaouri <souaouri@student.42.fr>          +#+  +:+       +#+        */
+/*   By: frukundo <frukundo@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/03/19 03:20:13 by souaouri          #+#    #+#             */
-/*   Updated: 2024/03/24 00:46:54 by souaouri         ###   ########.fr       */
+/*   Created: 2024/03/26 19:52:38 by frukundo          #+#    #+#             */
+/*   Updated: 2024/03/26 19:52:39 by frukundo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -1,3 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    Makefile                                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: frukundo <frukundo@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2024/03/26 19:52:25 by frukundo          #+#    #+#              #
+#    Updated: 2024/03/26 19:52:26 by frukundo         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
 SRS_F = fractol.c building.c control_way.c fractol_utile.c  window_construction.c
 
 FLAGS = -Wall -Wextra -Werror
